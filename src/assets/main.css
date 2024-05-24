@@ -1,3 +1,11 @@
+@import url(./base.css);
+
 body {
-  background-color: red;
+  background-color: var(--dark-blue);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  overflow-y: hidden;
+  padding: 1rem;
 }

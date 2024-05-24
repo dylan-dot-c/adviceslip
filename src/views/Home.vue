@@ -1,5 +1,9 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import AdviceCard from '../components/AdviceCard.vue'
+</script>
 
 <template>
-  <main></main>
+  <main>
+    <AdviceCard />
+  </main>
 </template>

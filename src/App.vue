@@ -1,7 +1,7 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import AdviceCard from './components/AdviceCard.vue'
+</script>
 
 <template>
-  <h1>Hello</h1>
+  <AdviceCard />
 </template>
-
-<style scoped></style>
