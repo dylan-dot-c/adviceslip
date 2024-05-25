@@ -23,7 +23,7 @@ onMounted(() => {
   fetchData()
 })
 
-const advice: Ref<Advice> = ref({ slip_id: 0, advice: '' })
+const advice: Ref<Advice> = ref({ slip_id: 220, advice: 'Most Things aren;t as bad as they seem' })
 const loading = ref(false)
 </script>
 
